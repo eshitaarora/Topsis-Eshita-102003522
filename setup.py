@@ -7,8 +7,8 @@ setup(
   description = 'Calculate Topsis score and save it in a csv file',
   author = 'Eshita Arora',                   
   author_email = 'earora_be20@thapar.edu',     
-  url = 'https://github.com/khushimitr/Topsis-Eshita',
-  download_url = 'https://github.com/khushimitr/Topsis-Khushi-101903244/archive/refs/tags/v0.1.tar.gz',
+  url = 'https://github.com/eshitaarora/Topsis-Eshita',
+  download_url = 'https://github.com/eshitaarora/Topsis-Eshita/archive/refs/tags/v0.1.tar.gz',
   keywords = ['TOPSISSCORE', 'RANK', 'DATAFRAME'],
   install_requires=[            # I get to this in a second
           'numpy',
